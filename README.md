@@ -14,7 +14,7 @@
 - 🌱 Learning **LangChain**, **Vector Databases** and **AI Application Architecture**
 - 📝 Regular writer on [ethanyu.me](https://ethanyu.me)
 - 💬 Ask me about **Next.js**, **NestJS**, **React** and **AI Development**
-- 📫 Reach me at **hello@ethanyu.me**
+- 📫 Reach me at **ethan@ethanyu.me**
 
 ### 🛠️ Tech Stack
 
