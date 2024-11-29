@@ -32,7 +32,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=craftwisehq&show_icons=true&theme=radical" alt="craftwisehq" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheEthanYu&show_icons=true&theme=radical" alt="TheEthanYu" />
 </p>
 
 ### 🔥 Recent Projects
@@ -40,17 +40,17 @@
 #### CraftWise
 AI-powered personal branding platform for developers
 - Next.js, NestJS, OpenAI
-- [View Project](https://craftwisehq.tech)
+- [View Project](https://TheEthanYu.tech)
 
 #### React AI Components
 A collection of React components for AI applications
 - React, TypeScript, OpenAI
-- [View Project](https://github.com/craftwisehq/react-ai-kit)
+- [View Project](https://github.com/TheEthanYu/react-ai-kit)
 
 #### AI Prompt Management SDK
 CLI tool for generating NestJS API boilerplate
 - NestJS, TypeScript, CLI
-- [View Project](https://github.com/craftwisehq/nestjs-api-generator)
+- [View Project](https://github.com/TheEthanYu/nestjs-api-generator)
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -61,5 +61,5 @@ CLI tool for generating NestJS API boilerplate
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=craftwisehq&label=Profile%20views&color=0e75b6&style=flat" alt="craftwisehq" />
+  <img src="https://komarev.com/ghpvc/?username=TheEthanYu&label=Profile%20views&color=0e75b6&style=flat" alt="TheEthanYu" />
 </p>
