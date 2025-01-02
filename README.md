@@ -2,17 +2,14 @@
 <h3 align="center">Full Stack Developer | AI Engineer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://ethanyu.me">Blog</a> •
-  <a href="https://twitter.com/ethanyume">Twitter</a> •
-  <a href="https://dev.to/ethanyume">Dev.to</a> •
-  <a href="https://linkedin.com/in/ethanyume">LinkedIn</a>
+  <a href="https://www.ethanyu.me">Blog</a> •
+  <a href="https://twitter.com/TheEthanYu">Twitter</a>
 </p>
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on [CraftWise](https://craftwise.tech) - AI-powered personal branding platform
 - 🌱 Learning **LangChain**, **Vector Databases** and **AI Application Architecture**
-- 📝 Regular writer on [ethanyu.me](https://ethanyu.me)
+- 📝 Regular writer on [ethanyu.me](https://www.ethanyu.me)
 - 💬 Ask me about **Next.js**, **NestJS**, **React** and **AI Development**
 - 📫 Reach me at **ethan@ethanyu.me**
 
@@ -34,29 +31,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheEthanYu&show_icons=true&theme=radical" alt="TheEthanYu" />
 </p>
-
-### 🔥 Recent Projects
-
-#### CraftWise
-AI-powered personal branding platform for developers
-- Next.js, NestJS, OpenAI
-- [View Project](https://TheEthanYu.tech)
-
-#### React AI Components
-A collection of React components for AI applications
-- React, TypeScript, OpenAI
-- [View Project](https://github.com/TheEthanYu/react-ai-kit)
-
-#### AI Prompt Management SDK
-CLI tool for generating NestJS API boilerplate
-- NestJS, TypeScript, CLI
-- [View Project](https://github.com/TheEthanYu/nestjs-api-generator)
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Debugging My Lifestyle: A Developer's Guide to Not Dying at Your Desk](https://ethanyu.me/blog/debugging-my-lifestyle)
-- [A Year of Remote Work: Expectations vs Reality](https://ethanyu.me/blog/remote-work-reality-check)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
