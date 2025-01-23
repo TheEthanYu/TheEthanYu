@@ -11,7 +11,7 @@
 
 - 🔨 Building **AI-powered developer tools** to improve coding efficiency
 - 🚀 Creator of [PromptKit](https://www.promptkit.tools) - AI Documentation Generator for Developers
-- 🌟 Maintainer of [best-cursorrules](https://github.com/prompt-kit/best-cursorrules) - Best Practices for AI-assisted Development
+- 🌟 Maintainer of [best-cursorrules](https://github.com/TheEthanYu/best-cursorrules) - Best Practices for AI-assisted Development
 - 💡 Passionate about **AI Application Development**, **Developer Tools** and **Open Source**
 - 📫 Reach me at **ethan@ethanyu.me**
 
@@ -20,7 +20,7 @@
 #### [PromptKit](https://www.promptkit.tools)
 AI-powered documentation generator that helps developers create comprehensive project documentation (requirements, architecture, tech stack, etc.) to enhance the effectiveness of AI coding assistants like Cursor and Copilot.
 
-#### [best-cursorrules](https://github.com/prompt-kit/best-cursorrules)
+#### [best-cursorrules](https://github.com/TheEthanYu/best-cursorrules)
 A collection of best practices and guidelines for AI-assisted development, helping developers better leverage AI tools in their development workflow.
 
 ### 🔧 Tech Stack
