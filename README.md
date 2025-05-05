@@ -4,18 +4,28 @@
 <p align="center">
   <a href="https://www.ethanyu.me">Blog</a> •
   <a href="https://x.com/TheEthanYu">X</a> •
-  <a href="https://www.promptkit.tools">PromptKit</a>
+  <a href="https://www.promptkit.tools">PromptKit</a> •
+  <a href="https://www.shipone.day">ShipOneDay</a> •
+  <a href="https://www.reply.promo">ReplyPromo</a>
 </p>
 
 ### 👨‍💻 About Me
 
 - 🔨 Building **AI-powered developer tools** to improve coding efficiency
-- 🚀 Creator of [PromptKit](https://www.promptkit.tools) - AI Documentation Generator for Developers
+- 🚀 Creator of [ShipOneDay](https://www.shipone.day) - Next.js 15 SaaS Starter Kit
+- 🤖 Developed [ReplyPromo](https://www.reply.promo) - Social Media Engagement Assistant
+- 📝 Creator of [PromptKit](https://www.promptkit.tools) - AI Documentation Generator for Developers
 - 🌟 Maintainer of [best-cursorrules](https://github.com/TheEthanYu/best-cursorrules) - Best Practices for AI-assisted Development
 - 💡 Passionate about **AI Application Development**, **Developer Tools** and **Open Source**
 - 📫 Reach me at **ethan@ethanyu.me**
 
 ### 🛠️ Products & Projects
+
+#### [ShipOneDay](https://www.shipone.day)
+Production-ready Next.js 15 SaaS starter kit that enables developers to launch enterprise-grade applications in just one day. Features include comprehensive admin dashboard, team collaboration system, Stripe subscription management, AI content generation, and perfect SEO scores. Built with Next.js 15, React 19, Drizzle ORM, and shadcn/ui.
+
+#### [ReplyPromo](https://www.reply.promo)
+Social media engagement assistant for X.com and Reddit that automatically generates high-quality replies, identifies optimal posts to engage with, and creates compelling original content to maximize your social media presence.
 
 #### [PromptKit](https://www.promptkit.tools)
 AI-powered documentation generator that helps developers create comprehensive project documentation (requirements, architecture, tech stack, etc.) to enhance the effectiveness of AI coding assistants like Cursor and Copilot.
