@@ -12,7 +12,6 @@
 ### 👨‍💻 About Me
 
 - 🤖 Creator of [TradingLens AI](https://www.tradinglens.ai) - Advanced AI-powered trading insights and analysis platform
-- 🔨 Building **AI-powered developer tools** to improve coding efficiency
 - 🚀 Creator of [ShipOneDay](https://www.shipone.day) - Next.js 15 SaaS Starter Kit
 - 📝 Creator of [PromptKit](https://www.promptkit.tools) - AI Documentation Generator for Developers
 - 💡 Passionate about **AI Application Development**, **Developer Tools** and **Trading Technology**
