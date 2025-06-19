@@ -4,14 +4,14 @@
 <p align="center">
   <a href="https://www.ethanyu.me">Blog</a> •
   <a href="https://x.com/TheEthanYu">X</a> •
-  <a href="https://tradinglens.ai">TradingLens AI</a> •
+  <a href="https://www.tradinglens.ai">TradingLens AI</a> •
   <a href="https://www.promptkit.tools">PromptKit</a> •
   <a href="https://www.shipone.day">ShipOneDay</a>
 </p>
 
 ### 👨‍💻 About Me
 
-- 🤖 Creator of [TradingLens AI](https://tradinglens.ai) - Advanced AI-powered trading insights and analysis platform
+- 🤖 Creator of [TradingLens AI](https://www.tradinglens.ai) - Advanced AI-powered trading insights and analysis platform
 - 🔨 Building **AI-powered developer tools** to improve coding efficiency
 - 🚀 Creator of [ShipOneDay](https://www.shipone.day) - Next.js 15 SaaS Starter Kit
 - 📝 Creator of [PromptKit](https://www.promptkit.tools) - AI Documentation Generator for Developers
@@ -20,7 +20,7 @@
 
 ### 🛠️ Products & Projects
 
-#### [TradingLens AI](https://tradinglens.ai)
+#### [TradingLens AI](https://www.tradinglens.ai)
 
 Advanced AI-powered trading insights platform that provides intelligent analysis for modern traders and investors. Features comprehensive market analysis, AI-driven trading insights, real-time data processing, and sophisticated risk assessment tools to help traders make informed decisions in volatile markets.
 
