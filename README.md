@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Ethan Yu
+# 👋 Hi, I'm Will Parker
 
 ### 🚀 Indie Developer | SaaS Builder | Technical Writer
 
 <p align="center">
-  <a href="https://www.ethanyu.me">🌐 ethanyu.me</a>
+  <a href="https://www.willparker.app">🌐 willparker.app</a>
 </p>
 
 </div>
@@ -83,7 +83,7 @@ Quickly generate project documents (requirements, architecture, tech stack) for 
 
 I write about indie development, technical insights, and thoughts on the nomadic dev life.
 
-> 🌐 Check out my blog at **[ethanyu.me](https://www.ethanyu.me)** for more content on SaaS products and developer tools.
+> 🌐 Check out my blog at **[willparker.app](https://www.willparker.app)** for more content on SaaS products and developer tools.
 
 ---
 
@@ -120,8 +120,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-ethanyu.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ethanyu.me)
-[![Email](https://img.shields.io/badge/Email-ethan@ethanyu.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ethan@ethanyu.me)
+[![Website](https://img.shields.io/badge/Website-ethanyu.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.willparker.app)
+[![Email](https://img.shields.io/badge/Email-ethan@ethanyu.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willparker.app@gmail.com)
 
 </div>
 
