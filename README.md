@@ -120,8 +120,8 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-ethanyu.me-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.willparker.app)
-[![Email](https://img.shields.io/badge/Email-ethan@ethanyu.me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willparker.app@gmail.com)
+[![Website](https://img.shields.io/badge/Website-willparker.app-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.willparker.app)
+[![Email](https://img.shields.io/badge/Email-willparker.app@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willparker.app@gmail.com)
 
 </div>
 
